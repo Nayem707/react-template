@@ -10,7 +10,7 @@
 
 # Design
 
-1. BOOTSTRAP
+1. <h4>BOOTSTRAP</h4>
 
 - Main `bootstrap`
 - Icon `bootstrap-icons`
