@@ -1,7 +1,12 @@
 import React from "react";
+import ContentContact from "./ContentConatct";
 
 const Contact = () => {
-  return <div>Contact</div>;
+  return (
+    <>
+      <ContentContact />
+    </>
+  );
 };
 
 export default Contact;

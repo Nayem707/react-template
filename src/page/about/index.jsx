@@ -1,8 +1,13 @@
 import React from "react";
 import "./about.css";
+import AboutContent from "./AboutContent";
 
 const About = () => {
-  return <div>About page</div>;
+  return (
+    <>
+      <AboutContent />
+    </>
+  );
 };
 
 export default About;
